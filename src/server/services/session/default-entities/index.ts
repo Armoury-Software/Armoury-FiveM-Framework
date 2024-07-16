@@ -1,3 +1,4 @@
+export * from './character.entity';
 export * from './session-account-id';
 export * from './session-cash';
 export * from './session-hours-played';
